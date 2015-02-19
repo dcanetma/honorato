@@ -1,1 +1,1 @@
-web: bin/hubot -a flowdock -n honorato
+web: bin/hubot -a jabbr -n honorato
