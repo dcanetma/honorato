@@ -1,1 +1,1 @@
-web: bin/hubot -a jabbr -n honorato
+web: bin/hubot -a aim -n honorato
